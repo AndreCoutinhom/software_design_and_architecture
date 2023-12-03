@@ -11,7 +11,7 @@ Engenharia de software é uma das áreas da computação cujo foco está relacio
 * Padrões de projeto;
 * Banco de dados;
 * Testes de software;
-* Gestão de projetos; e
+* Gestão de projetos;
 * Infraestrutura e deploy.
 
 A formação engenharia de software da Alura está organizada com diversos conteúdos que contemplam tais disciplinas, de maneira que você possa adquirir os conhecimentos necessários para ter uma boa visão sobre esta área tão importante da computação.
