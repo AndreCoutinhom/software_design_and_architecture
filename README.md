@@ -67,3 +67,23 @@ Foco na modelagem de software para corresponder a um domínio de acordo com as i
 
 > O ideal de uma arquitetura limpa é manter algumas camadas não dependentes da infraestrutura. Por exemplo, a última camada pode envolver mudanças na linguagem de programação ou na estrutura do banco de dados, mas as regras do negócio permaneceriam as mesmas.
 
+# Domain-Driven Design
+
+### Padrões estratégicos
+
+* Linguagem Ubíqua (onipresente)
+* Contextos delimitados
+* Domínio e Subdomínio (o que define o núcleo do funcionamento da empresa?)
+
+### Padrões táticos
+
+* Entidades
+* Repositórios
+* Eventos
+* Módulos
+* Serviços
+
+> DDD está mais para uma filosofia de produção
+
+![image](https://github.com/AndreCoutinhom/alura_software_engineering_education/assets/91290799/3436e8c8-8940-46c4-8830-004249d17ba2)
+
