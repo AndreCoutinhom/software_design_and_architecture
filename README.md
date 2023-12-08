@@ -48,3 +48,22 @@ A ideia é construir sistemas que favorecem reusabilidade de código, alta coes�
 
 Foco na modelagem de software para corresponder a um domínio de acordo com as informações dos especialistas desse domínio.
 
+# Clean Architecture
+
+### MVC (Model View Controller)
+
+![image](https://github.com/AndreCoutinhom/alura_software_engineering_education/assets/91290799/845284d2-2eb4-4d9a-af4b-6b207a774582)
+
+* O MVC é uma forma de organizar a aplicação web, mas ainda é necessário definir cada campo.
+
+### Clean Architecture 
+
+![image](https://github.com/AndreCoutinhom/alura_software_engineering_education/assets/91290799/1aef2c26-3444-4ebe-ae65-1f666eb819be)
+
+* Uma entidade é um tipo de classe que possui alguma identidade. Onde ficam as regras do negócio.
+* Use cases são classes que organizam o fluxo das regras de negócio.
+* A camada de adaptadores transfere dados externos para o sistema.
+* A última camada é totalmente ligada à infraestrutura do negócio que interage com o usuário.
+
+> O ideal de uma arquitetura limpa é manter algumas camadas não dependentes da infraestrutura. Por exemplo, a última camada pode envolver mudanças na linguagem de programação ou na estrutura do banco de dados, mas as regras do negócio permaneceriam as mesmas.
+
