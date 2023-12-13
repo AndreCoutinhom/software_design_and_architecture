@@ -48,7 +48,7 @@ A ideia é construir sistemas que favorecem reusabilidade de código, alta coes�
 
 Foco na modelagem de software para corresponder a um domínio de acordo com as informações dos especialistas desse domínio.
 
-# Clean Architecture
+## Clean Architecture
 
 ### MVC (Model View Controller)
 
@@ -67,7 +67,7 @@ Foco na modelagem de software para corresponder a um domínio de acordo com as i
 
 > O ideal de uma arquitetura limpa é manter algumas camadas não dependentes da infraestrutura. Por exemplo, a última camada pode envolver mudanças na linguagem de programação ou na estrutura do banco de dados, mas as regras do negócio permaneceriam as mesmas.
 
-# Domain-Driven Design
+## Domain-Driven Design
 
 ### Padrões estratégicos
 
@@ -86,4 +86,6 @@ Foco na modelagem de software para corresponder a um domínio de acordo com as i
 > DDD está mais para uma filosofia de produção
 
 ![image](https://github.com/AndreCoutinhom/alura_software_engineering_education/assets/91290799/3436e8c8-8940-46c4-8830-004249d17ba2)
+
+## Mensageria
 
