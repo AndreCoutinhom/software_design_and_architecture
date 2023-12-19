@@ -1,21 +1,3 @@
-![image](https://github.com/AndreCoutinhom/alura_software_engineering_education/assets/91290799/12360cca-f0ea-4834-b992-62eb733d295b)
-
-# Engenharia de Software
-
-Engenharia de software é uma das áreas da computação cujo foco está relacionado com análise, desenvolvimento e manutenção de softwares, bem como gestão de projetos e times.
-
-É uma área bastante extensa, pois contempla as diversas disciplinas necessárias durante todo o processo de criação e manutenação de softwares, tais como:
-
-* Gestão de requisitos;
-* Arquitetura e design de sistemas;
-* Padrões de projeto;
-* Banco de dados;
-* Testes de software;
-* Gestão de projetos;
-* Infraestrutura e deploy.
-
-A formação engenharia de software da Alura está organizada com diversos conteúdos que contemplam tais disciplinas, de maneira que você possa adquirir os conhecimentos necessários para ter uma boa visão sobre esta área tão importante da computação.
-
 # Design e Arquitetura
 
 ## Design de Código vs Arquitetura de Software
@@ -88,4 +70,58 @@ Foco na modelagem de software para corresponder a um domínio de acordo com as i
 ![image](https://github.com/AndreCoutinhom/alura_software_engineering_education/assets/91290799/3436e8c8-8940-46c4-8830-004249d17ba2)
 
 ## Mensageria
+
+![image](https://github.com/AndreCoutinhom/alura_software_engineering_education/assets/91290799/e3cbc8fa-b517-433d-a1e9-b5aabbd41aff)
+
+
+* É uma conduta de envio de mensagens assíncronas.
+* Nessa conduta é possível que mensagens de aviso sejam enviadas sem que o processo de construção seja interrompido.
+
+> Exemplo em código:
+
+![image](https://github.com/AndreCoutinhom/alura_software_engineering_education/assets/91290799/5f818b02-2ab2-4552-bf87-e2794534a523)
+
+## Modelagem de eventos
+
+* Consolidado por Adam Dymitruk
+
+### Fases
+
+* Brainstorming;
+* Ordenação lógica (the plot);
+
+![image](https://github.com/AndreCoutinhom/alura_software_engineering_education/assets/91290799/62c7fdfe-3f19-42f7-a6e8-0413c8c6eb0b)
+
+* Storyboard;
+* Identificando entradas;
+* Identificando saídas;
+* Lei de conway;
+> Separação lógica dos eventos referente à estrutura empresarial (quem faz o quê)
+* Elaboração de cenários.
+
+## Arquitetura orientada a eventos
+
+### Escabilidades
+
+Formas de adequar o serviço diante de aumento de complexidade
+
+* Horizontal;
+> Busca soluções adicionando o número de serviços e tecnologias para a aplicação.
+* Vertical;
+> Busca soluções envolvendo o aumento quantitativo de recursos de produção (hardware)
+* Profundidade
+> Busca soluções em forma de mudanças relacionadas ao cenário e ao público foco. Geralmente aplicado como inovação.
+
+### Event Bus
+
+* Sistema baseado em comunicação de eventos por mensageria.
+
+![image](https://github.com/AndreCoutinhom/alura_software_engineering_education/assets/91290799/7a22b918-d2cb-41cb-b581-11dc55df5b93)
+
+### Event sourcing
+
+* Sistema baseado em implementações de evento (controle de versão)
+
+
+
 
