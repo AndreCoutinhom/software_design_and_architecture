@@ -1,4 +1,21 @@
-# Design e Arquitetura
+> *Anotações da Formação em Engenharia de Software da Alura.*
+
+
+<h1 align="center">
+  
+  Design e Arquitetura
+
+###
+
+![image](https://github.com/AndreCoutinhom/software_design_and_architecture/assets/91290799/7b372b8c-5368-49cb-a527-0e2143201f69)
+
+  
+</h1>
+
+
+Escrever o código de um software que deve atender as necessidades de negócios de uma organização é uma tarefa complexa. São milhares de linhas de código que precisam ser simples de entender e manter, permitindo que o software seja facilmente adaptado às mudanças que surgem com o tempo.
+
+Justamente por isso é essencial que o time de desenvolvimento projete uma arquitetura de software que seja simples de manter e evoluir, assim como o design do código escrito que precisa seguir padrões que garantam tais carascterísticas.
 
 ## Design de Código vs Arquitetura de Software
 
