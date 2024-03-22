@@ -19,8 +19,6 @@ Justamente por isso é essencial que o time de desenvolvimento projete uma arqui
 
 ## Design de Código vs Arquitetura de Software
 
-A principal diferença entre design de código e arquitetura de software está em seus diferentes níveis de padrão.
-
 Enquanto Design de Código é focado no posicionamento e sintaxe do código em si, a Arquitetura de Software se trata do conhecimento de alto padrão sobre a organização e funcionamento esquemático de todos os componentes do software.
 
 ## Arquitetura Hexagonal
